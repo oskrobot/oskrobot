@@ -8,5 +8,7 @@ Me puedes seguir en:
 * Mi [**Linkedin**](https://www.linkedin.com/in/oscar-alexander-ortiz-beltran)
 * Mi [**GitHub**](https://github.com/oskrobot)
 
-## También puen revisar mi portafolio
+## También pueden revisar mi portafolio
 ![Mi portafolio](https://github.com/oskrobot/oskrobot/assets/115122435/8cc874e4-aed0-43af-b03d-ddf9dfe97ea3)
+
+[**Portafolio**](https://oskrobot.github.io/miPortafolio/) 📄
