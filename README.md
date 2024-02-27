@@ -14,9 +14,8 @@ Me puedes seguir o contactar en:
 
 * Mi [**GitHub**](https://github.com/oskrobot)
 
-## También pueden revisar mi portafolio
-![Captura_Pantalla_miPortafolio](https://github.com/oskrobot/oskrobot/assets/115122435/05f73bcd-104c-467c-9811-f81fda22f23e) 
-[**Portafolio**](https://oskrobot.github.io/miPortafolio/) 📄
+## También pueden revisar mi [**Portafolio**](https://oskrobot.github.io/miPortafolio/) 📄
+![Captura_Pantalla_miPortafolio](https://github.com/oskrobot/oskrobot/assets/115122435/05f73bcd-104c-467c-9811-f81fda22f23e)
 
 
 ## STACK
