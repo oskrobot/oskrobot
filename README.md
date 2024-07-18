@@ -1,10 +1,7 @@
 # 👽 Hola, mi nombre es Oscar Ortiz 👋
-### Involucrado con el desaroollo web - Frontend
+Ingeniero de Sistemas apasionado por la enseñanza de las TIC. Disfruto impartiendo tutorías sobre diversas tecnologías, incluyendo Blender, Scratch, herramientas ofimáticas, CSS, HTML, JavaScript y Linux.
 
-![Banner_Oscar-Ortiz_GitHub (1)](https://github.com/oskrobot/oskrobot/assets/115122435/a30ac7eb-0641-4b7d-b5c9-3d26813c4ba4)
-
-
-Soy de profesión ingeniero de sistemas, espero dedicarme a apoyar proyectos que tengan que ver con el desarrollo web. Por el momento mis habilidades están en: HTML, CSS y JavaScript, pero estoy ampliando esos conocimientos, sigo con React.js
+![Banner Oscar Ortiz](https://github.com/user-attachments/assets/601c6adc-d4b6-4788-b0bf-07f45468f10d)
 
 ### Me puedes seguir o contactar en:
 
