@@ -13,6 +13,10 @@ Ingeniero de Sistemas apasionado por la enseñanza de las TIC. Disfruto impartie
 
 ## STACK
 
-![Static Badge](https://img.shields.io/badge/HTML-%23ff5722?style=for-the-badge&logo=HTML5&labelColor=black&color=%23ff5722) ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&labelColor=black&color=blue) ![Static Badge](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&labelColor=black&color=%23ffc107)
+![Static Badge](https://img.shields.io/badge/HTML-%23ff5722?style=for-the-badge&logo=HTML5&labelColor=black&color=%23ff5722) <p> ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&labelColor=black&color=blue) </p> ![Static Badge](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&labelColor=black&color=%23ffc107) ![Static Badge](https://img.shields.io/badge/scratch-%23f7a028?style=for-the-badge&logo=scratch&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Blender-blue?style=for-the-badge&logo=blender&labelColor=black)
+
+
+
 
 
